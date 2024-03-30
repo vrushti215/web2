@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TripPlanner</string>
+    <string name="trip_image">Trip Image</string>
+    <string-array name="number_of_travelers">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+</resources>
